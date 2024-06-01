@@ -23,8 +23,9 @@ Each of these should be considered a mini-book with research articles that give 
   - **Practice**: Follow practical advice for various aspects of software development.
 
 - **Design Patterns**:
-  - **Research Article**: "A Catalog of Architectural Patterns" by Eoin Woods
-     - 1. 
+  - **Research Article**: "A Mapping Study of Language Features Improving Object-Oriented
+Design Patterns
+     - 1. https://assets.ptidej.net/Publications/Documents/IST23.doc.pdf
   - **Practice**: Utilize common design patterns to solve recurring design problems.
 
 - **Code Reviews and Pair Programming**:
