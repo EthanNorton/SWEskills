@@ -51,6 +51,9 @@ In order to be a better data scientist and to manage code effectively, I am focu
   - **I**: Interface Segregation Principle
   - **D**: Dependency Inversion Principle
 
+### Relevant Videos
+
+
 ### Learning SWE and General Coding on HackerRank
 
 - **HackerRank Profile**: [My HackerRank Profile](https://www.hackerrank.com/ethannorton12)
