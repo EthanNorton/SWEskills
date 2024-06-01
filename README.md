@@ -1,6 +1,12 @@
 # SWEskills
 
-In order to be a better data scientist and to manage code effectively, I am focusing on developing software engineering (SWE) skills. These practices should be apparent throughout my other coding repositories.
+To be a better data scientist and to manage code effectively, I am focusing on developing software engineering (SWE) skills. These practices should be apparent throughout my other coding repositories.
+
+## Goals and Coding Principles
+
+1. As I work in various teams, the code should be easily interpreted by all team members.
+2. The code is reproducible, clean, well documented, and digested by myself from each line, not a spew of an LLM/anyone else.
+3. Understandable scalability of code, as well as System Design.
 
 ## Areas of Focus
 
