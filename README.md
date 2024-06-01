@@ -14,22 +14,21 @@ Each of these should be considered a mini-book with research articles that give 
 ### 1. Learning Code Quality and Maintainability
 
 - **Clean Code**:
-  - **Research Articles**: "Towards Better Code: A Journey Through the State of the Art of Code Quality" by Emanuele Panichella et al.
+  - **Topics**: "Towards Better Code: A Journey Through the State of the Art of Code Quality" by Emanuele Panichella et al.
       - 1.
   - **Practice**: Write code that is easy to read, understand, and maintain.
   
 - **The Pragmatic Programmer**:
-  - **Research Article**: "Pragmatic Software Development: Enabling Agility through Design and Analysis" by Ivan Porres
+  - **Topics**: "Pragmatic Software Development: Enabling Agility through Design and Analysis" by Ivan Porres
   - **Practice**: Follow practical advice for various aspects of software development.
 
 - **Design Patterns**:
-  - **Research Article**: "A Mapping Study of Language Features Improving Object-Oriented
-Design Patterns
+  - **Topics**: OOP, Encapsulation, Functional Programming, 
      - 1. https://assets.ptidej.net/Publications/Documents/IST23.doc.pdf
   - **Practice**: Utilize common design patterns to solve recurring design problems.
 
 - **Code Reviews and Pair Programming**:
-  - **Practice**: Participate in code reviews and pair programming to learn from more experienced developers.
+  - **Topics**: Participate in code reviews and pair programming to learn from more experienced developers.
 
 - **Open Source Contributions**:
   - **Practice**: Contribute to open-source projects to engage with high standards of code quality and maintainability.
@@ -37,11 +36,11 @@ Design Patterns
 ### 2. Learning Scalability and Performance
 
 - **Designing Data-Intensive Applications**:
-  - **Research Article**: "Architectural Patterns and Techniques for Scalable, Reliable, and Maintainable Applications" by Martin Fowler
+  - **Topics**: "Architectural Patterns and Techniques for Scalable, Reliable, and Maintainable Applications" by Martin Fowler
   - **Practice**: Understand the architecture of scalable systems and how to handle large datasets efficiently.
 
 - **High Performance Browser Networking**:
-  - **Research Article**: "Performance Optimization Strategies for Web Applications" by Ilya Grigorik
+  - **Topics**: "Performance Optimization Strategies for Web Applications" by Ilya Grigorik
   - **Practice**: Learn performance optimization techniques, especially for web applications.
 
 - **Performance Profiling and Optimization**:
@@ -49,7 +48,7 @@ Design Patterns
   - **Practice**: Identify bottlenecks and optimize code performance.
 
 - **System Design**:
-  - **Research Article**: "System Design for Scalability and Performance" by Jeffrey Dean and Luiz André Barroso
+  - **Topics**: "System Design for Scalability and Performance" by Jeffrey Dean and Luiz André Barroso
   - **Practice**: Participate in mock system design interviews to practice designing scalable architectures.
 
 ### General Principles
