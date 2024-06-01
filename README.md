@@ -23,9 +23,15 @@ Each of these should be considered a mini-book with research articles that give 
   - **Practice**: Follow practical advice for various aspects of software development.
 
 - **Design Patterns**:
-  - **Topics**: OOP, Encapsulation, Functional Programming, 
+  - **Topics**:
+    - OOP, Encapsulation, Functional Programming, Observer vs. Visitor, Various Languages 
      - 1. https://assets.ptidej.net/Publications/Documents/IST23.doc.pdf
+    - ML Library Development 
+      - 2. https://arxiv.org/pdf/2101.04938
+    - ML Systems Design
+      - 3. 
   - **Practice**: Utilize common design patterns to solve recurring design problems.
+    
 
 - **Code Reviews and Pair Programming**:
   - **Topics**: Participate in code reviews and pair programming to learn from more experienced developers.
