@@ -1,4 +1,4 @@
-# SWEskills
+# SWE skills and foundations
 
 To be a better data scientist and to manage code effectively, I am focusing on developing software engineering (SWE) skills. These practices should be apparent throughout my other coding repositories.
 
@@ -9,11 +9,13 @@ To be a better data scientist and to manage code effectively, I am focusing on d
 3. Understandable scalability of code, as well as System Design.
 
 ## Areas of Focus
+Each of these should be considered a mini-book with research articles that give a strong theoretical and applicable foundation. I will reference examples of various repositories that I build.
 
 ### 1. Learning Code Quality and Maintainability
 
 - **Clean Code**:
-  - **Research Article**: "Towards Better Code: A Journey Through the State of the Art of Code Quality" by Emanuele Panichella et al.
+  - **Research Articles**: "Towards Better Code: A Journey Through the State of the Art of Code Quality" by Emanuele Panichella et al.
+      1.
   - **Practice**: Write code that is easy to read, understand, and maintain.
   
 - **The Pragmatic Programmer**:
@@ -22,6 +24,7 @@ To be a better data scientist and to manage code effectively, I am focusing on d
 
 - **Design Patterns**:
   - **Research Article**: "A Catalog of Architectural Patterns" by Eoin Woods
+     1. 
   - **Practice**: Utilize common design patterns to solve recurring design problems.
 
 - **Code Reviews and Pair Programming**:
@@ -59,7 +62,8 @@ To be a better data scientist and to manage code effectively, I am focusing on d
 
 ### Relevant Videos
 
-
+  Include some applicable examples and good applications by advanced programmers. 
+  
 ### Learning SWE and General Coding on HackerRank
 
 - **HackerRank Profile**: [My HackerRank Profile](https://www.hackerrank.com/ethannorton12)
