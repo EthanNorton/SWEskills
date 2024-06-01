@@ -15,7 +15,7 @@ Each of these should be considered a mini-book with research articles that give 
 
 - **Clean Code**:
   - **Research Articles**: "Towards Better Code: A Journey Through the State of the Art of Code Quality" by Emanuele Panichella et al.
-      1.
+      - 1.
   - **Practice**: Write code that is easy to read, understand, and maintain.
   
 - **The Pragmatic Programmer**:
@@ -24,7 +24,7 @@ Each of these should be considered a mini-book with research articles that give 
 
 - **Design Patterns**:
   - **Research Article**: "A Catalog of Architectural Patterns" by Eoin Woods
-     1. 
+     - 1. 
   - **Practice**: Utilize common design patterns to solve recurring design problems.
 
 - **Code Reviews and Pair Programming**:
