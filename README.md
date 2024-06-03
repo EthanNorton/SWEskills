@@ -51,11 +51,16 @@ Each of these should be considered a mini-book with research articles that give 
 
 - **Performance Profiling and Optimization**:
   - **Tools**: Use profilers like `gprof`, `Valgrind`, and language-specific profilers.
+    - 1. https://arxiv.org/pdf/2104.06700
+    - 2. https://adalabucsd.github.io/papers/2024_Saturn_VLDB.pdf
   - **Practice**: Identify bottlenecks and optimize code performance.
 
 - **System Design**:
   - **Topics**: "System Design for Scalability and Performance" by Jeffrey Dean and Luiz André Barroso
-  - **Practice**: Participate in mock system design interviews to practice designing scalable architectures.
+    - https://www.researchgate.net/profile/Research-Publication/publication/378286866_NOVATEUR_PUBLICATIONS_INTERNATIONAL_JOURNAL_OF_INNOVATIONS_IN_ENGINEERING_RESEARCH_AND_TECHNOLOGY_IJIERT_PYTHON_ENGINEERING_AUTOMATION_TO_ADVANCE_ARTIFICIAL_INTELLIGENCE_AND_MACHINE_LEARNING_SYSTEMS/links/65d0d2f2e51f606f997999f2/NOVATEUR-PUBLICATIONS-INTERNATIONAL-JOURNAL-OF-INNOVATIONS-IN-ENGINEERING-RESEARCH-AND-TECHNOLOGY-IJIERT-PYTHON-ENGINEERING-AUTOMATION-TO-ADVANCE-ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING-SYSTEMS.pdf
+    - https://proceedings.mlsys.org/paper_files/paper/2020/file/91fc23ceccb664ebb0cf4257e1ba9c51-Paper.pdf
+    - https://dl.acm.org/doi/pdf/10.1145/3445814.3446700
+  - **Practice**: Apply proper system design to create cohesive code segments in other repositories, understanding what proper system design looks like. 
 
 ### General Principles
 
@@ -93,7 +98,7 @@ Each of these should be considered a mini-book with research articles that give 
   - **Resource**: [Parallel Programming Models and their Influence on Multi-core Performance](https://dl.acm.org/doi/10.1145/2145816.2145830)
 
 - **Community and Forums**:
-  - **Stack Overflow**: Engage with the community to ask questions and learn from others’ experiences.
+  - **MSDS**: Grow close with classmates and understand how to apply and improve this understanding to future workflows.
   - **Reddit**: Subreddits like r/programming and r/cscareerquestions often have discussions about best practices and learning resources.
   - **Meetups and Conferences**: Attend local meetups, webinars, and conferences to learn from industry experts and network with other professionals.
 
