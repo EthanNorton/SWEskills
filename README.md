@@ -14,8 +14,8 @@ Each of these should be considered a mini-book with research articles that give 
 ### 1. Learning Code Quality and Maintainability
 
 - **Clean Code**:
-  - **Topics**: "Towards Better Code: A Journey Through the State of the Art of Code Quality" by Emanuele Panichella et al.
-      - 1.
+  - **Topics**: Python Code Optimization
+      - 1.https://www.theseus.fi/bitstream/handle/10024/860981/FernandezPoolan_Raul.pdf?sequence=2
   - **Practice**: Write code that is easy to read, understand, and maintain.
   
 - **The Pragmatic Programmer**:
@@ -26,7 +26,7 @@ Each of these should be considered a mini-book with research articles that give 
   - **Topics**:
     - OOP, Encapsulation, Functional Programming, Observer vs. Visitor, Various Languages 
      - 1. https://assets.ptidej.net/Publications/Documents/IST23.doc.pdf
-    - ML Library Development 
+    - ML Library Development, Types of Objects in ML flow, 
       - 2. https://arxiv.org/pdf/2101.04938
     - ML Systems Design
       - 3. 
