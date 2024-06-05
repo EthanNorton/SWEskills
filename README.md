@@ -78,6 +78,8 @@ Each of these should be considered a mini-book with research articles that give 
   - https://www.youtube.com/playlist?list=PLWF9TXck7O_zuU2_BVUTrmGMCXYSYzjku
 - Topic: Roadmap for System Design
   - https://www.youtube.com/watch?v=rliSgjoOFTs&t=87s
+- Topic: Further System Design Details
+  - https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
 ### Learning SWE and General Coding on HackerRank
 
 - **HackerRank Profile**: [My HackerRank Profile](https://www.hackerrank.com/ethannorton12)
