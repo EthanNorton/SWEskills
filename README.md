@@ -45,7 +45,7 @@ Each of these should be considered a mini-book with research articles that give 
   - **Topics**: "Architectural Patterns and Techniques for Scalable, Reliable, and Maintainable Applications" by Martin Fowler
   - **Practice**: Understand the architecture of scalable systems and how to handle large datasets efficiently.
 
-- **High Performance Browser Networking**:
+- **High-Performance Browser Networking**:
   - **Topics**: "Performance Optimization Strategies for Web Applications" by Ilya Grigorik
   - **Practice**: Learn performance optimization techniques, especially for web applications.
 
@@ -102,7 +102,7 @@ Each of these should be considered a mini-book with research articles that give 
 
 - **Community and Forums**:
   - **MSDS**: Grow close with classmates and understand how to apply and improve this understanding to future workflows.
-  - **Reddit**: Subreddits like r/programming and r/cscareerquestions often have discussions about best practices and learning resources.
-  - **Meetups and Conferences**: Attend local meetups, webinars, and conferences to learn from industry experts and network with other professionals.
+  - **Youtube Videos**: Explore different topics through Podcasts and YouTube about growth opportunities, and new topics. 
+  - **Chat with current friends**: Collaborate with current network and share updates of things I'm learning, chat with what I'm up to, topics I'm enjoying learning.
 
 
