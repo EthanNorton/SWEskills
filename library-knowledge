@@ -1,11 +1,12 @@
-Here are some library areas that I want to explore more in depth.
+Here are some library areas that I want to explore more in-depth.
 
 
 -CuDF and Nvidia learning applications 
 	-NIMS
 	-Distributed/Parallel Computers 
-	-Try CUDNN
-
+	-Try CUDNN (reading and getting background)
+		- https://www.researchgate.net/profile/Jurn-Gyu-Park/publication/370220863_Interpretable_ML_enhanced_CNN_Performance_Analysis_of_cuBLAS_cuDNN_and_TensorRT/links/64467877d749e4340e34b7c1/Interpretable-ML-enhanced-CNN-Performance-Analysis-of-cuBLAS-cuDNN-and-TensorRT.pdf
+		- https://www.mdpi.com/2079-9292/11/19/3205
 -Understanding Tensors 
 	- Build a neural network for looking at predicting energy levels 
 	- Understanding one hot encoding for this 
