@@ -72,9 +72,12 @@ Each of these should be considered a mini-book with research articles that give 
   - **D**: Dependency Inversion Principle
 
 ### Relevant Videos
-
-  Include some applicable examples and good applications by advanced programmers. 
-  
+  Topic: OOP in Python General Video 
+  - https://youtu.be/waUVA9K2CYg?si=0VBDWE5an9XWBKj7
+  Topic: OOP in Python Playlist
+  - https://www.youtube.com/playlist?list=PLWF9TXck7O_zuU2_BVUTrmGMCXYSYzjku
+  Topic: Roadmap for System Design
+  - https://www.youtube.com/watch?v=rliSgjoOFTs&t=87s
 ### Learning SWE and General Coding on HackerRank
 
 - **HackerRank Profile**: [My HackerRank Profile](https://www.hackerrank.com/ethannorton12)
