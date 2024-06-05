@@ -5,3 +5,8 @@ Here are some library areas that I want to explore more in depth.
 	-NIMS
 	-Distributed/Parallel Computers 
 	-Try CUDNN
+
+-Understanding Tensors 
+	- Build a neural network for looking at predicting energy levels 
+	- Understanding one hot encoding for this 
+	- Understand gradient descent optimizer 
