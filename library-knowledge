@@ -11,3 +11,5 @@ Here are some library areas that I want to explore more in-depth.
 	- Build a neural network for looking at predicting energy levels 
 	- Understanding one hot encoding for this 
 	- Understand gradient descent optimizer 
+
+-Utilize and apply Keras library
