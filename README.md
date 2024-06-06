@@ -14,7 +14,7 @@ Each of these should be considered a mini-book with research articles that give 
 ### 1. Learning Code Quality and Maintainability
 
 - **Clean Code**:
-  - **Topics**: Python Code Optimization
+  - **Topics**: Python Code Optimization, SOLID Principles, Clean Code, PEP-20
       - 1.https://www.theseus.fi/bitstream/handle/10024/860981/FernandezPoolan_Raul.pdf?sequence=2
   - **Practice**: Write code that is easy to read, understand, and maintain.
   
