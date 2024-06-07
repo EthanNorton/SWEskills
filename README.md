@@ -80,6 +80,8 @@ Each of these should be considered a mini-book with research articles that give 
   - https://www.youtube.com/watch?v=rliSgjoOFTs&t=87s
 - Topic: Further System Design Details
   - https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+- Topic: Systems Design Principles
+  - https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&si=0Q0wk0CChPqi5sYF
 ### Learning SWE and General Coding on HackerRank
 
 - **HackerRank Profile**: [My HackerRank Profile](https://www.hackerrank.com/ethannorton12)
