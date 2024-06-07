@@ -45,8 +45,11 @@ Each of these should be considered a mini-book with research articles that give 
   - **Topics**: "Architectural Patterns and Techniques for Scalable, Reliable, and Maintainable Applications" by Martin Fowler
   - **Practice**: Understand the architecture of scalable systems and how to handle large datasets efficiently.
 
-- **High-Performance Browser Networking**:
-  - **Topics**: "Performance Optimization Strategies for Web Applications" by Ilya Grigorik
+- **Big-Data Processing and Scalability**:
+  - **Topics**: Spark, Dask
+      - https://ieeexplore.ieee.org/abstract/document/10045022
+    - **Topics**: DAG Workflows
+      - https://link.springer.com/content/pdf/10.1007/s10619-023-07425-1.pdf
   - **Practice**: Learn performance optimization techniques, especially for web applications.
 
 - **Performance Profiling and Optimization**:
