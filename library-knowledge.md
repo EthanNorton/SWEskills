@@ -46,6 +46,8 @@ Tensors are multidimensional arrays that serve as the fundamental data structure
 ### Keras
 Keras is a high-level neural networks API that runs on top of TensorFlow, CNTK, or Theano.
 
+![image](https://github.com/EthanNorton/SWEskills/assets/86625413/672ef6cd-1cfd-4625-821e-0684ad097fef)
+
 ### My Goals
 - **Model Building**
   - Build, compile, and train neural network models using Keras.
