@@ -48,7 +48,7 @@ Keras is a high-level neural networks API that runs on top of TensorFlow, CNTK, 
 
 ![image](https://github.com/EthanNorton/SWEskills/assets/86625413/672ef6cd-1cfd-4625-821e-0684ad097fef)
 
-### My Goals
+### Goals
 - **Model Building**
   - Build, compile, and train neural network models using Keras.
 - **Hyperparameter Tuning**
@@ -57,6 +57,9 @@ Keras is a high-level neural networks API that runs on top of TensorFlow, CNTK, 
   - Evaluate model performance and make predictions using Keras functions.
 - **Advanced Features**
   - Explore and utilize advanced Keras features such as custom layers, callbacks, and the functional API.
+    
+### Data Flow Graph
+![image](https://github.com/EthanNorton/SWEskills/assets/86625413/59f61592-3736-44c5-814e-106862205cdd)
 
 ## Additional Relevant Libraries
 
@@ -72,7 +75,7 @@ Pandas is a powerful library for data analysis and manipulation in Python.
 #### Dask
 Dask is a parallel computing library that extends Python capabilities to handle larger-than-memory datasets.
 
-### My Goals
+### Goals
 - Handle large datasets with Dask that do not fit into memory.
 - Utilize Dask's parallel computing capabilities to speed up data processing.
 
@@ -81,7 +84,7 @@ Dask is a parallel computing library that extends Python capabilities to handle 
 #### Scikit-Learn
 Scikit-Learn provides simple and efficient tools for data mining and data analysis.
 
-### My Goals
+### Goals
 - Apply Scikit-Learn for standard machine learning tasks such as classification, regression, clustering, and dimensionality reduction.
 - Utilize pipelines and model selection tools to streamline the machine learning workflow.
 
