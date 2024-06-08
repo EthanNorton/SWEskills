@@ -8,16 +8,23 @@
 ### Definition
 Encapsulation is bundling the data (attributes) and methods (functions) that operate on the data into a single unit or class and restricting access to some of the object's components.
 
-## Functional Programming (FP)
-
-**Topics** Pipeline data flow 
-- https://arxiv.org/pdf/2405.16956
-
-## Refactoring Code
-
 ### Key Practices
 - Use access specifiers (`private`, `protected`, `public`) to control access to the attributes and methods.
 - Provide public getter and setter methods to access and update the private attributes.
+
+## Functional Programming (FP)
+
+### Definition
+
+**Topics** Pipeline data flow 
+- https://arxiv.org/pdf/2405.16956
+### Key Practices
+
+## Refactoring Code
+
+### Definition
+
+### Key Practices
 
 ## Abstraction
 
