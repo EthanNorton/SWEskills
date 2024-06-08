@@ -1,13 +1,17 @@
 # Object-Oriented Programming (OOP) Design Principles
 
 ![image](https://github.com/EthanNorton/SWEskills/assets/86625413/3a09226f-83f1-4b9e-b626-28fb419b0069)
-**Potential Workflow** 
+- **Potential Workflow** 
 
 ## Encapsulation
 
 ### Definition
-Encapsulation is the principle of bundling the data (attributes) and methods (functions) that operate on the data into a single unit or class and restricting access to some of the object's components.
+Encapsulation is bundling the data (attributes) and methods (functions) that operate on the data into a single unit or class and restricting access to some of the object's components.
 
+## Functional Programming (FP)
+
+**Topics** Pipeline data flow 
+- https://arxiv.org/pdf/2405.16956
 
 ## Refactoring Code
 
