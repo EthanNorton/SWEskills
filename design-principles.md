@@ -1,9 +1,15 @@
 # Object-Oriented Programming (OOP) Design Principles
 
+![image](https://github.com/EthanNorton/SWEskills/assets/86625413/3a09226f-83f1-4b9e-b626-28fb419b0069)
+**Potential Workflow** 
+
 ## Encapsulation
 
 ### Definition
-Encapsulation is the principle of bundling the data (attributes) and methods (functions) that operate on the data into a single unit or class, and restricting access to some of the object's components.
+Encapsulation is the principle of bundling the data (attributes) and methods (functions) that operate on the data into a single unit or class and restricting access to some of the object's components.
+
+
+## Refactoring Code
 
 ### Key Practices
 - Use access specifiers (`private`, `protected`, `public`) to control access to the attributes and methods.
@@ -12,10 +18,10 @@ Encapsulation is the principle of bundling the data (attributes) and methods (fu
 ## Abstraction
 
 ### Definition
-Abstraction involves simplifying complex reality by modeling classes appropriate to the problem, and working at the most relevant level of inheritance for a particular aspect of the problem.
+Abstraction involves simplifying complex reality by modeling classes appropriate to the problem and working at the most relevant level of inheritance for a particular aspect of the problem.
 
 ### Key Practices
-- Use abstract classes and interfaces to define common methods that can be implemented by multiple subclasses.
+- Use abstract classes and interfaces to define common methods that multiple subclasses can implement.
 - Focus on what an object does rather than how it does it.
 
 ## Inheritance
@@ -89,7 +95,7 @@ Strive for simplicity in design and implementation, avoiding unnecessary complex
 - Each module should be self-contained and perform a specific task.
 
 ## Data Handling
-- Efficiently load, preprocess, and augment data.
+- Efficiently load, preprocess and augment data.
 - Implement data versioning to track changes in the datasets used for training and evaluation.
 
 ## Feature Engineering
