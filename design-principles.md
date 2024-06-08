@@ -22,6 +22,11 @@ Encapsulation is bundling the data (attributes) and methods (functions) that ope
 
 ## Refactoring Code
 
+**Topics** Refactoring, Repetition, Code changes, Machine learning, Python
+- https://dl.acm.org/doi/pdf/10.1145/3510003.3510225
+
+- https://arxiv.org/pdf/2207.05613
+
 ### Definition
 
 ### Key Practices
