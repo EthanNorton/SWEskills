@@ -56,6 +56,7 @@
 - **Boto3:**
   - `s3_client.upload_file()`
   - `redshift.execute()`
+  - https://journal.uob.edu.bh/bitstream/handle/123456789/4983/IJCDS160103_1570908738.pdf?sequence=3 **article to fill this gap**
 
 # Deeper learning and growth areas to focus on.
  
