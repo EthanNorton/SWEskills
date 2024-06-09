@@ -56,7 +56,11 @@ Each of these should be considered a mini-book with research articles that give 
   - **Tools**: Use profilers like `gprof`, `Valgrind`, and language-specific profilers.
     - 1. https://arxiv.org/pdf/2104.06700
     - 2. https://adalabucsd.github.io/papers/2024_Saturn_VLDB.pdf
+
+    - 3. GPU Performance
+      - https://www.mdpi.com/2079-3197/8/1/4/pdf
   - **Practice**: Identify bottlenecks and optimize code performance.
+  - 
 
 - **System Design**:
   - **Topics**: "System Design for Scalability and Performance" by Jeffrey Dean and Luiz André Barroso
