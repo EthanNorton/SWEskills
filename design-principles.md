@@ -22,9 +22,7 @@ Encapsulation is bundling the data (attributes) and methods (functions) that ope
 
 ## Refactoring Code
 
-**Topics** Refactoring, Repetition, Code changes, Machine learning, Python
-- https://dl.acm.org/doi/pdf/10.1145/3510003.3510225
-
+**Topics** 
 - https://arxiv.org/pdf/2207.05613
 
 ### Definition
@@ -44,6 +42,7 @@ Abstraction involves simplifying complex reality by modeling classes appropriate
 
 ### Definition
 Inheritance is a mechanism where a new class is derived from an existing class. The new class inherits attributes and methods from the existing class.
+![image](https://github.com/EthanNorton/SWEskills/assets/86625413/91c631fd-a6e2-46a6-a67d-83725730bcbf)
 
 ### Key Practices
 - Use inheritance to promote code reusability and establish a natural hierarchy.
@@ -57,6 +56,8 @@ Polymorphism allows objects of different classes to be treated as objects of a c
 ### Key Practices
 - Use method overriding to allow different classes to provide specific implementations of a method defined in a superclass or interface.
 - Leverage dynamic method binding to call the overridden methods at runtime.
+
+## Decorators 
 
 ## SOLID Principles
 
