@@ -87,5 +87,36 @@
 - **Informatica, ODI, SSIS, Datastage:** These are popular ETL tools used in the industry for data integration and transformation. Exploring these tools can provide insights into different approaches to ETL and broaden your skill set in data engineering.
 
 # TODO:
-- Hadoop, EMR, SSIS, Boto3, Py and Apache Spark applications - research areas 
+- Hadoop, EMR, SSIS, Boto3, Py and Apache Spark applications - research areas
+- Understand cluster relations for big-data processing.
+
+# Next steps: 
+
+## 1. Understand the Core Concepts
+
+Start by understanding the core concepts and principles of the Hadoop ecosystem, including:
+
+- **HDFS (Hadoop Distributed File System):** Learn about the distributed file system that provides high-throughput access to application data.
+- **MapReduce:** Understand the programming model for processing and generating large datasets.
+- **YARN (Yet Another Resource Negotiator):** Learn about the resource management layer responsible for managing resources and scheduling jobs on the cluster.
+- **Hadoop Common:** Get familiar with the common utilities and libraries used by other Hadoop modules.
+
+## 2. Explore Key Components
+
+Explore key components and technologies that are part of the Hadoop ecosystem, such as:
+
+- **Hive:** Learn about the data warehouse infrastructure built on top of Hadoop for querying and analyzing large datasets using a SQL-like language.
+- **Pig:** Understand the platform for analyzing large datasets using a high-level scripting language called Pig Latin.
+- **HBase:** Explore the distributed, scalable, and NoSQL database built on top of Hadoop HDFS.
+- **Spark:** Gain knowledge about the fast and general-purpose cluster computing system that provides high-level APIs in Java, Scala, Python, and R.
+
+## 3. Hands-on Practice
+
+Practice working with Hadoop ecosystem technologies through hands-on exercises and projects:
+
+- **Set Up a Hadoop Cluster:** Install and configure a Hadoop cluster on your local machine or using cloud services like AWS or Google Cloud Platform.
+- **Write MapReduce Programs:** Practice writing MapReduce programs in Java or using higher-level frameworks like Apache Pig or Apache Hive.
+- **Query Data with Hive:** Experiment with querying and analyzing data using HiveQL, the SQL-like query language for Hive.
+- **Build Spark Applications:** Develop Spark applications using Spark's APIs in Python, Scala, or Java for data processing, machine learning, or streaming.
+
 
