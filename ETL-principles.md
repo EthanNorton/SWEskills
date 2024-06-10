@@ -86,4 +86,6 @@
 - **Apache Kafka:** [Apache Kafka Documentation](https://kafka.apache.org/documentation/): Apache Kafka is a distributed streaming platform that is commonly used for building real-time data pipelines. It allows you to publish and subscribe to streams of records in a fault-tolerant and scalable manner.
 - **Informatica, ODI, SSIS, Datastage:** These are popular ETL tools used in the industry for data integration and transformation. Exploring these tools can provide insights into different approaches to ETL and broaden your skill set in data engineering.
 
+# TODO:
+- Hadoop, EMR, SSIS, Boto3, Py and Apache Spark applications - research areas 
 
