@@ -119,4 +119,6 @@ Practice working with Hadoop ecosystem technologies through hands-on exercises a
 - **Query Data with Hive:** Experiment with querying and analyzing data using HiveQL, the SQL-like query language for Hive.
 - **Build Spark Applications:** Develop Spark applications using Spark's APIs in Python, Scala, or Java for data processing, machine learning, or streaming.
 
+### 4. Vidoes 
+- https://www.youtube.com/watch?v=Tvf04xcbODE&list=PLYqhYQOVe-qNwwWJdhiLM_In2l9kDwkAa
 
