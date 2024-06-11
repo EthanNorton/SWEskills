@@ -1,6 +1,6 @@
 # Data Science and Software Engineering Foundations
 
-To excel as a data scientist and effectively manage code, it's crucial to develop strong software engineering (SWE) skills. These practices should be evident throughout your coding repositories.
+To excel as a data scientist and effectively manage code, it's crucial to develop strong software engineering (SWE) skills. Here are the skills I am developing.
 
 ## Goals and Coding Principles
 
@@ -36,7 +36,7 @@ To excel as a data scientist and effectively manage code, it's crucial to develo
 ### 4. Libraries Knowledge
 
 - **ML Library Development**:
-  - Familiarize yourself with developing ML libraries and types of objects in ML flow.
+  - Develop ML libraries and types of objects in ML flow.
 - **Big Data Processing**:
   - Explore Spark, Dask, and DAG workflows for scalable data processing.
 
@@ -56,11 +56,12 @@ To excel as a data scientist and effectively manage code, it's crucial to develo
 - **Testing**:
   - Write unit tests, integration tests, and practice test-driven development (TDD).
 - **CI/CD**:
-  - Familiarize yourself with continuous integration and deployment pipelines.
+  - Familiarize myself with continuous integration and deployment pipelines. Continously update repos. 
 - **Database Optimization**:
   - Learn indexing, query optimization, and database normalization.
 - **Community and Forums**:
   - Engage with classmates, YouTube channels, and forums to stay updated and collaborate on projects.
+  - Such as MSDS class.
 
 ## Relevant Videos and Resources
 
