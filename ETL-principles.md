@@ -118,7 +118,7 @@ Practice working with Hadoop ecosystem technologies through hands-on exercises a
 - **Write MapReduce Programs:** Practice writing MapReduce programs in Java or using higher-level frameworks like Apache Pig or Apache Hive.
 - **Query Data with Hive:** Experiment with querying and analyzing data using HiveQL, the SQL-like query language for Hive.
 - **Build Spark Applications:** Develop Spark applications using Spark's APIs in Python, Scala, or Java for data processing, machine learning, or streaming.
-
+- refer to etl-aws repository for a direct application here.
 ### 4. Vidoes 
 - https://www.youtube.com/watch?v=Tvf04xcbODE&list=PLYqhYQOVe-qNwwWJdhiLM_In2l9kDwkAa
 
