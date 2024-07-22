@@ -29,7 +29,7 @@ To excel as a data scientist and effectively manage code, it's crucial to develo
 - **Clean Code**:
   - Understand Python code optimization, SOLID principles, and PEP-20.
 - **Design Patterns**:
-  - Learn common design patterns for solving recurring design problems.
+  - Learn common design patterns for solving recurring design problems, working through neet code library that has common leet code problems.
 - **System Design**:
   - Study architectural patterns for scalability and performance.
   
