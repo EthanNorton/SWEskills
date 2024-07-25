@@ -2,6 +2,7 @@
 
 
 1A) Two Points:
+- Usually a O(N) solution 
 
 
 1B) Stack: 
