@@ -6,6 +6,5 @@
 
 
 1B) Stack: 
-
-Trees:
+ Trees:
  - DFS and BFS 
