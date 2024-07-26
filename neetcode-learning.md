@@ -7,4 +7,5 @@
 
 1B) Stack: 
  Trees:
- - DFS and BFS 
+ - DFS and BFS
+   - Most also seem to be BFS approach.
