@@ -6,6 +6,7 @@
 
 
 1B) Stack: 
+ - Usually a O(N) solution. 
  Trees:
  - DFS and BFS
    - Most also seem to be BFS approach.
