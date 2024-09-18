@@ -33,6 +33,33 @@ Functional programming techniques can lead to more concise, readable, and mainta
 - [Real Python Functional Programming Guide](https://realpython.com/python-functional-programming/)
 - [Geeks for Geeks Functional Programming](https://www.geeksforgeeks.org/functional-programming-in-python/)
 
+# Magic Methods in Python
+
+Magic methods, also known as **dunder methods**, allow you to define how objects behave with respect to built-in operations such as arithmetic, comparison, string representation, and more.
+
+### Definition
+
+These methods have double underscores before and after their names (e.g., `__init__`, `__str__`, `__add__`). Python calls these methods automatically when performing certain operations on objects, making it possible to customize object behavior in a flexible way.
+
+## Common Magic Methods Covered
+
+- `__init__`: Initializes an object.
+- `__str__`: Defines how an object is printed as a string.
+- `__repr__`: Provides an official string representation of an object.
+- `__add__`: Overloads the `+` operator.
+- `__len__`: Defines behavior for the `len()` function.
+- `__getitem__`, `__setitem__`: Enables indexing and item assignment.
+- `__eq__`: Compares two objects for equality.
+- `__call__`: Allows an object to be called like a function.
+
+## Getting Started
+
+To explore these magic methods, define a class and implement any of the above methods. You can run each example in this section by copying the code to a `.py` file and running it.
+
+### Further Resources
+- [Python Official Docs on Magic Methods](https://docs.python.org/3/reference/datamodel.html)
+- [Real Python: Magic Methods](https://realpython.com/python-magic-methods/)
+
 
 ### Definition
 
