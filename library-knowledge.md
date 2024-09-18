@@ -18,7 +18,7 @@ NVIDIA Infrastructure Management Service (NIMS) helps manage, monitor, and optim
 
 #### Distributed/Parallel Computing
 Understanding distributed and parallel computing frameworks is crucial for scaling machine learning tasks across multiple GPUs and nodes.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 #### cuDNN
 The NVIDIA CUDA Deep Neural Network library (cuDNN) provides GPU-accelerated functionalities for deep neural networks.
 
@@ -62,12 +62,66 @@ Keras is a high-level neural networks API that runs on top of TensorFlow, CNTK, 
 ![image](https://github.com/EthanNorton/SWEskills/assets/86625413/59f61592-3736-44c5-814e-106862205cdd)
 
 ## Additional Relevant Libraries
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Processing
+
+## Hadoop
+
+Hadoop is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage.
+
+### Key Components:
+- **HDFS (Hadoop Distributed File System)**: Provides high-throughput access to application data.
+- **MapReduce**: A YARN-based system for parallel processing of large data sets.
+- **YARN (Yet Another Resource Negotiator)**: Manages and schedules resources across the cluster.
+- **Hadoop Common**: The libraries and utilities needed by other Hadoop modules.
+
+# Hadoop Overview
+
+Hadoop is an open-source framework for distributed storage and processing of large datasets using the MapReduce programming model.
+
+## Core Concepts
+
+### HDFS (Hadoop Distributed File System)
+- Handles storage across the cluster.
+
+### MapReduce
+- Processes large datasets by breaking them into smaller tasks.
+
+### YARN
+- Handles resource management and job scheduling.
+
+## Why Use Hadoop?
+- Scalability to handle growing datasets.
+- Fault tolerance with automatic data replication.
+- Cost-effective as it uses commodity hardware.
+
+## Setting Up Hadoop
+- Download the latest version from [Apache Hadoop](https://hadoop.apache.org/).
+- Set up Java and configure environment variables.
+- Format HDFS and start Hadoop services.
+
+## Common Commands
+```bash
+hdfs dfs -ls /   # List directories
+hdfs dfs -mkdir /data   # Create a directory in HDFS
+hdfs dfs -put localfile.txt /data   # Upload a file to HDFS
+
+
+
+### Key Features:
+- Scalability
+- Fault tolerance
+- High availability
+- Cost-effectiveness for big data processing
+
+### Use Cases:
+- Batch processing of large datasets
+- Data warehousing and analytics
+- Machine learning
 
 #### Pandas
 Pandas is a powerful library for data analysis and manipulation in Python.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ### My Goals
 - Use Pandas for efficient data cleaning, transformation, and analysis.
 - Leverage DataFrame and Series objects for handling structured data.
@@ -90,6 +144,9 @@ Scikit-Learn provides simple and efficient tools for data mining and data analys
 
 #### XGBoost
 XGBoost is an optimized distributed gradient
+
+
+
 
 
 
