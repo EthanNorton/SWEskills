@@ -101,11 +101,9 @@ Hadoop is an open-source framework for distributed storage and processing of lar
 - Format HDFS and start Hadoop services.
 
 ## Common Commands
-```bash
 hdfs dfs -ls /   # List directories
 hdfs dfs -mkdir /data   # Create a directory in HDFS
 hdfs dfs -put localfile.txt /data   # Upload a file to HDFS
-
 
 
 ### Key Features:
