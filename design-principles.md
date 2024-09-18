@@ -12,7 +12,27 @@ Encapsulation is bundling the data (attributes) and methods (functions) that ope
 - Use access specifiers (`private`, `protected`, `public`) to control access to the attributes and methods.
 - Provide public getter and setter methods to access and update the private attributes.
 
-## Functional Programming (FP)
+# Functional Programming Tools in Python
+
+This section explores essential functional programming constructs in Python, including `lambda`, `map`, `filter`, and `reduce`. Functional programming emphasizes immutability, first-class functions, and declarative code.
+
+### Definition 
+
+Functional programming techniques can lead to more concise, readable, and maintainable code. These techniques are particularly useful when working with collections of data, making it easy to apply transformations or filtering operations in a clean, declarative manner.
+
+## Tools Covered
+
+- **Lambda Functions**: Anonymous functions for short, single-use operations.
+- **Map**: Applies a function to every element of an iterable.
+- **Filter**: Filters elements in an iterable based on a condition.
+- **Reduce**: Reduces an iterable to a single value through a binary operation.
+- **List Comprehensions**: A Pythonic way to apply functions to iterables.
+
+### Further Resources
+- [Python Official Docs](https://docs.python.org)
+- [Real Python Functional Programming Guide](https://realpython.com/python-functional-programming/)
+- [Geeks for Geeks Functional Programming](https://www.geeksforgeeks.org/functional-programming-in-python/)
+
 
 ### Definition
 
