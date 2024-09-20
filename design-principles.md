@@ -60,6 +60,8 @@ To explore these magic methods, define a class and implement any of the above me
 - [Python Official Docs on Magic Methods](https://docs.python.org/3/reference/datamodel.html)
 - [Real Python: Magic Methods](https://realpython.com/python-magic-methods/)
 
+  
+## Operating Systems Principles 
 
 ## Refactoring Code
 
